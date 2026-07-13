@@ -2,7 +2,9 @@
 
 An interactive, browser-based Unix-style command-line terminal portfolio styled with the popular **Dracula** theme. 
 
-🚀 **Live Demo:** [https://rajeev91691.github.io/cli-portfolio/](https://rajeev91691.github.io/cli-portfolio/)
+🚀 **Live Demos:**
+*   **Vercel Production:** [https://cli-portfolio-flax.vercel.app](https://cli-portfolio-flax.vercel.app)
+*   **GitHub Pages:** [https://rajeev91691.github.io/cli-portfolio/](https://rajeev91691.github.io/cli-portfolio/)
 
 ---
 
